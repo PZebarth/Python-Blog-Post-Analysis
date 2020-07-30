@@ -9,11 +9,12 @@ I was interested in using Stackoverflow Developer Survey Data to better understa
 ### 3. How should you learn the necessary programming languages?
 
 ## File Description:
-Survey Analysis.ipynb: Notebook containing the data analysis.
 
-the following are contained in the archive.zip file:
-survey_results_public.csv: Stackoverflow's 2017 Annual Developer Survey data.
-datasets_1406_2522_survey_results_schema.csv: Stackoverflow's 2017 Annual Developer Survey Question Schema
+Survey Analysis.ipynb: Notebook containing the data analysis. <br>
+
+The following are contained in the archive.zip file: <br>
+survey_results_public.csv: Stackoverflow's 2017 Annual Developer Survey data <br>
+datasets_1406_2522_survey_results_schema.csv: Stackoverflow's 2017 Annual Developer Survey Question Schema <br>
 
 ## Results:
 > A background in computer programming helps but is not necessary <br>
