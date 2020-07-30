@@ -8,9 +8,9 @@ I was interested in using Stackoverflow Developer Survey Data to better understa
 ### 2. What programming languages should you focus on?
 ### 3. How should you learn the necessary programming languages?
 
-A background in computer programming helps but is not necessary
-Fill the gaps in your programming skills with in demand languages
-Take online courses to get hands on experience
+> A background in computer programming helps but is not necessary
+> Fill the gaps in your programming skills with in demand languages
+> Take online courses to get hands on experience
 
 ## File Description:
 Survey Analysis.ipynb: Notebook containing the data analysis.
