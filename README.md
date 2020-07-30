@@ -4,9 +4,9 @@
 ## Project Motivation
 I was interested in using Stackoverflow Developer Survey Data to better understand:
 
-### 1. How common is becoming a developer with a physics background?
-### 2. What programming languages should you focus on?
-### 3. How should you learn the necessary programming languages?
+> 1. How common is becoming a developer with a physics background? <br>
+> 2. What programming languages should you focus on? <br>
+> 3. How should you learn the necessary programming languages? <br>
 
 ## File Description:
 
