@@ -1,4 +1,4 @@
-# Write a Data Science Blog Post
+# Data Science Blog Post
 # Udacity Data Scientist Nanodegree Project.
 
 ## Project Motivation
