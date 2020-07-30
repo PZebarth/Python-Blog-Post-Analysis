@@ -18,8 +18,8 @@ survey_results_public.csv: Stackoverflow's 2017 Annual Developer Survey data <br
 datasets_1406_2522_survey_results_schema.csv: Stackoverflow's 2017 Annual Developer Survey Question Schema <br>
 
 ## Results:
-> A background in computer programming helps but is not necessary <br>
-> Fill the gaps in your programming skills with in demand languages <br>
-> Take online courses to get hands on experience <br>
+> - A background in computer programming helps but is not necessary <br>
+> - Fill the gaps in your programming skills with in demand languages <br>
+> - Take online courses to get hands on experience <br>
 
 The main findings of the code can be found at the post available here: https://medium.com/@pzebarth/thiswill-make-you-rethink-how-to-become-a-developer-6d9fa901717e
