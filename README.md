@@ -2,7 +2,7 @@
 # Udacity Data Scientist Nanodegree Project.
 
 ## Project Motivation
-I was interested in using Stackoverflow Developer Survey Data to better understand:
+I was interested in using Stack Overflow Developer Survey Data to better understand:
 
 > 1. How common is becoming a developer with a physics background? <br>
 > 2. What programming languages should you focus on? <br>
